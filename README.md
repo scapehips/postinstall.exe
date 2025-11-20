@@ -2,81 +2,81 @@
 
 🎬 Video Playback & Display Processing
 
-MPC-HC
-madVR
-DXVA Checker
-Custom Resolution Utility
+- MPC-HC
+- madVR
+- DXVA Checker
+- Custom Resolution Utility
 
 
 🎮 GPU/System Utilities
 
-Nvidia App
-PowerToys
-Terminal
-PowerShell
+- Nvidia App
+- PowerToys
+- Terminal
+- PowerShell
 
 
 🎧 Audio/Music Management & Production
 
-MusicBee
-MusicBrainz Picard
-Spek
-Ableton Suite
-ASIO4ALL
-dBpoweramp
-Nicotine++
+- MusicBee
+- MusicBrainz Picard
+- Spek
+- Ableton Suite
+- ASIO4ALL
+- dBpoweramp
+- Nicotine++
 
 
 🎥 Video Editing, Encoding & Processing
 
-LosslessCut
-MKVToolNix
-Shutter Encoder
-FFmpeg (gyan)
-mp4fpsmod
-yt-dlp
-OBS Studio
-Adobe Premiere Pro
-Topaz Gigapixel
-video-compare
+- LosslessCut
+- MKVToolNix
+- Shutter Encoder
+- FFmpeg (gyan)
+- mp4fpsmod
+- yt-dlp
+- OBS Studio
+- Adobe Premiere Pro
+- Topaz Gigapixel
+- video-compare
 
 
 🖼️ Image Editing & Conversion
 
-IrfanView
-ImageMagick
-Squoosh
-Adobe Photoshop
+- IrfanView
+- ImageMagick
+- Squoosh
+- Adobe Photoshop
 
 
 📁 File Management & Utilities
 
-Everything
-WizTree
-NinaZip
-LocalSend
+- Everything
+- WizTree
+- NinaZip
+- LocalSend
 
 
 🌐 Downloaders, Networking & Automation
 
-qBittorrent
-Jackett
-FlareSolverr
-Internet Download Manager
+- qBittorrent
+- Jackett
+- FlareSolverr
+- Internet Download Manager
 
 
 📝 PDF & Text Tools
 
-Notepad++
-Adobe Acrobat Pro
+- Notepad++
+- Adobe Acrobat Pro
 
 
 🧩 Gaming Platforms
 
-Steam
-Epic Games Launcher
+- Steam
+- Epic Games Launcher
 
 
 💬 Communication
 
-Discord
+- Discord
