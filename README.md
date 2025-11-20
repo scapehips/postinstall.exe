@@ -57,7 +57,7 @@
 
 - Everything
 - WizTree
-- NinaZip
+- NanaZip
 - LocalSend
 - WinCDEmu
 
