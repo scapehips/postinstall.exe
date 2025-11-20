@@ -17,7 +17,7 @@
 - PowerShell
 
 
-🎧 Audio/Music Management & Production
+🎧 Audio
 
 - MusicBee
 - Spotify
