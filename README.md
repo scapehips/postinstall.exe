@@ -1,9 +1,9 @@
 # postinstall.exe
 
-🎬 Video Playback & Display Processing
+🎬 Video Playback
 
-- MPC-HC
-- madVR
+- MPC-HC with madVR
+- xy-VSFilter + XySubFilter
 - DXVA Checker
 - Custom Resolution Utility
 
@@ -11,6 +11,7 @@
 🎮 GPU/System Utilities
 
 - Nvidia App
+- Nvidia Control Panel
 - PowerToys
 - Terminal
 - PowerShell
@@ -19,6 +20,7 @@
 🎧 Audio/Music Management & Production
 
 - MusicBee
+- Spotify
 - MusicBrainz Picard
 - Spek
 - Ableton Suite
@@ -46,6 +48,7 @@
 - IrfanView
 - ImageMagick
 - Squoosh
+- Nvidia ICAT
 - Adobe Photoshop
 
 
@@ -55,6 +58,7 @@
 - WizTree
 - NinaZip
 - LocalSend
+- WinCDEmu
 
 
 🌐 Downloaders, Networking & Automation
