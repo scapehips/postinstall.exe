@@ -41,6 +41,7 @@
 - Adobe Premiere Pro
 - Topaz Gigapixel
 - video-compare
+- MediaInfo
 
 
 🖼️ Image Editing & Conversion
