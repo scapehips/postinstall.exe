@@ -1,14 +1,14 @@
 # postinstall.exe
 
-🎬 Video Playback
+🎬 Video Playback & Rendering
 
 - MPC-HC with madVR
 - xy-VSFilter + XySubFilter
 - DXVA Checker
-- Custom Resolution Utility
+- Custom Resolution Utility (CRU)
 
 
-🎮 GPU/System Utilities
+🎮 GPU & System Utilities
 
 - Nvidia App
 - Nvidia Control Panel
@@ -17,24 +17,24 @@
 - PowerShell
 
 
-🎧 Audio
+🎧 Audio & Music
 
 - MusicBee
 - Spotify
 - MusicBrainz Picard
 - Spek
-- Ableton Suite
+- Ableton Live (Suite)
 - ASIO4ALL
 - dBpoweramp
-- Nicotine++
+- Nicotine+
 
 
-🎥 Video Editing, Encoding & Processing
+🎥 Video Editing, Encoding & Analysis
 
 - LosslessCut
 - MKVToolNix
 - Shutter Encoder
-- FFmpeg (gyan)
+- FFmpeg (gyan builds)
 - mp4fpsmod
 - yt-dlp
 - OBS Studio
@@ -44,7 +44,7 @@
 - MediaInfo
 
 
-🖼️ Image Editing & Conversion
+🖼️ Image Editing & Analysis
 
 - IrfanView
 - ImageMagick
@@ -62,7 +62,7 @@
 - WinCDEmu
 
 
-🌐 Downloaders, Networking & Automation
+🌐 Download Tools
 
 - qBittorrent
 - Jackett
